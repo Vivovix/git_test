@@ -1,1 +1,3 @@
 Adding some text so that I can properly test the git add and git status commands.
+
+Testing out the git commit message through VSCode.
